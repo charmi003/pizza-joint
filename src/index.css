@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap);
+.App {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #561778, #911ccfe3, #73317A, #561778);
+  color: white;
+}
+
+header {
+  height: 100px;
+}
+header svg {
+  height: 60px;
+  width: 100px;
+}
+header .title {
+  width: 100%;
+}
